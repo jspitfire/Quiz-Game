@@ -1,5 +1,7 @@
 # Quiz-Game
 
+Deployed App link: https://jspitfire.github.io/Quiz-Game/
+
 ## This app involves a timed-quiz with 10 coding questions against a timer which counts down. Each incorrect answer loses you 10 seconds. Scores are logged and a leaderboard is given.
 
 ## Features include dynamically updated HTML and CSS powered by JavaScript code for the following criteria:
