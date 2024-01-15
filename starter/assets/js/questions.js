@@ -1,3 +1,5 @@
+//Questions for quiz - 4 choices and one answer
+
 var questions = [
     {
         title: "What language is typically used in .js files",
